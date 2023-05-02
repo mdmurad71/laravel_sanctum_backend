@@ -27,3 +27,13 @@ class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable;
 }
+
+
+change config/auth.php file
+
+change config/sanctum.php file
+
+change config/cors.php file
+
+change .env file
+
